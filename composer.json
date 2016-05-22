@@ -19,12 +19,12 @@
         }
     ],
     "require": {
-        "friendsofsilverstripe/silverstripe-maintenance": "^0.1.0",
-        "spekulatius/silverstripe-composer-security-checker": "^0.1.0"
+        "friendsofsilverstripe/silverstripe-maintenance": "^0.1",
+        "spekulatius/silverstripe-composer-security-checker": "^0.1"
     },
     "require-dev": {
-        "spekulatius/silverstripe-composer-update-checker": "^0.1.0",
-        "spekulatius/silverstripe-composer-versions": "^0.1.0"
+        "spekulatius/silverstripe-composer-update-checker": "^0.1",
+        "spekulatius/silverstripe-composer-versions": "^0.1"
     },
     "support": {
         "issues": "https://github.com/FriendsOfSilverStripe/silverstripe-maintenance/issues"
