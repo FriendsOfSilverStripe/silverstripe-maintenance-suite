@@ -19,3 +19,5 @@ into a single
 ```
 composer require friendsofsilverstripe/silverstripe-maintenance-suite
 ```
+
+## MISC: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/issues), [Contributing](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/blob/master/license.md)
