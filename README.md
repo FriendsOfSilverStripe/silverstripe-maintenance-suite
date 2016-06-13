@@ -8,10 +8,10 @@ Handy installer for the [SilverStripe maintenance modules](https://github.com/Fr
 Simply turns:
 
 ```
-composer require friendsofsilverstripe/silverstripe-maintenance dev-master
-composer require spekulatius/silverstripe-composer-security-checker dev-master
-composer require spekulatius/silverstripe-composer-update-checker dev-master --dev
-composer require spekulatius/silverstripe-composer-versions dev-master --dev
+composer require friendsofsilverstripe/silverstripe-maintenance
+composer require spekulatius/silverstripe-composer-security-checker
+composer require spekulatius/silverstripe-composer-update-checker --dev
+composer require spekulatius/silverstripe-composer-versions --dev
 ```
 
 into a single
