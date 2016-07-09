@@ -1,7 +1,4 @@
-# SilverStripe Maintenance suite
-
-[![Total Downloads](https://poser.pugx.org/FriendsOfSilverStripe/silverstripe-maintenance-suite/downloads.svg)](https://packagist.org/packages/FriendsOfSilverStripe/silverstripe-maintenance-suite)
-[![License](https://poser.pugx.org/FriendsOfSilverStripe/silverstripe-maintenance-suite/license.svg)](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/blob/master/license.md)
+# SilverStripe Maintenance suite [![Total Downloads](https://poser.pugx.org/FriendsOfSilverStripe/silverstripe-maintenance-suite/downloads.svg)](https://packagist.org/packages/FriendsOfSilverStripe/silverstripe-maintenance-suite) [![License](https://poser.pugx.org/FriendsOfSilverStripe/silverstripe-maintenance-suite/license.svg)](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/blob/master/license.md)
 
 Handy installer for the [SilverStripe maintenance modules](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance) and the related modules.
 
