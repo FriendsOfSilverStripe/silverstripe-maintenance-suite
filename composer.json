@@ -20,7 +20,8 @@
     ],
     "require": {
         "friendsofsilverstripe/silverstripe-maintenance": "^0.1",
-        "spekulatius/silverstripe-composer-security-checker": "^0.1"
+        "spekulatius/silverstripe-composer-security-checker": "^0.1",
+        "silverstripe/framework": "^3.1"
     },
     "require-dev": {
         "spekulatius/silverstripe-composer-update-checker": "^0.1",
