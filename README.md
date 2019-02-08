@@ -13,8 +13,7 @@ instead of
 ```
 composer require friendsofsilverstripe/silverstripe-maintenance
 composer require spekulatius/silverstripe-composer-security-checker
-composer require spekulatius/silverstripe-composer-update-checker --dev
-composer require spekulatius/silverstripe-composer-versions --dev
+composer require spekulatius/silverstripe-composer-update-checker
 ```
 
 ### misc: [future ideas/development, issues](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/issues), [contributing](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/blob/master/CONTRIBUTING.md), [license](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance-suite/blob/master/license.md)
